@@ -1,4 +1,4 @@
-package org.example.arvore;
+package org.example.terceiraParte.arvore;
 
 class Node {
 
