@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.terceiraParte.listas.ListaIndiceForaLimiteException;
+import org.example.terceiraParte.listas.excecoes.ListaIndiceForaLimiteException;
 import org.example.terceiraParte.listas.ListasEncadeadas;
 import org.example.terceiraParte.listas.ListasEstaticas;
 

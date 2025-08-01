@@ -1,5 +1,9 @@
 package org.example.terceiraParte.listas;
 
+import org.example.terceiraParte.listas.excecoes.ListaCheiaException;
+import org.example.terceiraParte.listas.excecoes.ListaIndiceForaLimiteException;
+import org.example.terceiraParte.listas.excecoes.ListaVaziaException;
+
 public class ListasEstaticas {
     private int[] array;
     private int quantidade;

@@ -1,4 +1,4 @@
-package org.example.terceiraParte.listas;
+package org.example.terceiraParte.listas.excecoes;
 
 public class ListaIndiceForaLimiteException extends Exception {
 
